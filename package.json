@@ -7,5 +7,8 @@
     "url": "https://github.com/rektide/streamnexus"
   },
   "author": "rektide de la faye <rektide@voodoowarez.com>",
-  "license": "MIT/X"
+  "license": "MIT/X",
+  "dependencies": {
+    "q": "~0.9.6"
+  }
 }
