@@ -1,0 +1,11 @@
+{
+  "name": "streamnexus",
+  "version": "1.0.0",
+  "main": "streamnexus.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rektide/streamnexus"
+  },
+  "author": "rektide de la faye <rektide@voodoowarez.com>",
+  "license": "MIT/X"
+}
